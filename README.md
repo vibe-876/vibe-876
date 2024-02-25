@@ -1,5 +1,4 @@
 - My name is Cam.
-- I am interested in (among other things) PL Theory, Maths, and Compiler Design.
+- I am interested in (among other things) Systems Programming, Maths, and Compiler Design.
 - I use Haskell, Lisp, C, and Python.
-- I'm currently reading "The Cathedral and the Bazaar", by Eric S. Raymond.
-- In my spare time, I enjoy reading and programming.
+- More about me can be found [here](https://vibe-876.github.io/).
