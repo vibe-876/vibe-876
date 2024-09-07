@@ -1,4 +1,4 @@
 * Hello. my name is Cam.
-- I am interested in (among other things) computational complexity, cyber security, and linguistics (this includes natural language and PLT).
-- I use Lisp, Haskell, C, and a few others
+- I am interested in (among other things) algorithmic analysis, cryptography, and functional programming.
+- I primarily use Haskell, Lisp, and C, and I am learning Rust, which will take C's place.
 - More about me can be found [[https://vibe-876.github.io/][here]].
