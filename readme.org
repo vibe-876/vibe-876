@@ -1,4 +1,4 @@
 * Hello. my name is Cam.
-- I am interested in (among other things) algorithmic analysis, cryptography, and functional programming.
+- I am interested in (among other things) algorithmic analysis, algebra, and functional programming.
 - I primarily use Lisp, and Haskell, and I am learning Rust.
 - More about me can be found [[https://vibe-876.github.io/][here]] (nothing there for now, because I'm redoing it).
