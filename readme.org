@@ -1,5 +1,5 @@
-* Hello. my name is Cam.
-- I am interested in (among other things) algorithmic analysis, abstract algebra, and functional programming.
-- I primarily use Lisp, and Haskell, and I am learning Rust.
+* Hello -- my name is Cam.
+- I am interested in (among many other things) computer programming and mathematics.
+- I primarily use Lisp, and Haskell, and I am learning Rust and Lean 4.
 - If you want to contact me, my discord is ~Vibe876~.
-- More about me can be found [[https://vibe-876.github.io/][here]].
+- More about me can be found on [[https://vibe-876.github.io/][my website]].
